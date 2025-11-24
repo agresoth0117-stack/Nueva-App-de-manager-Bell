@@ -12,7 +12,8 @@ dependencies:
     sdk: flutter
   http: ^1.1.0
   shared_preferences: ^2.1.1
-  flutter_local_notifications: ^15.1.0
+  flutter_local_notifications: ^14.1.1
+  
   intl: ^0.18.0
   cupertino_icons: ^1.0.8
 
@@ -33,3 +34,4 @@ flutter:
   assets:
     - assets/icons/app_icon.png
     - assets/splash/splash.png
+
